@@ -1,16 +1,25 @@
-## Hi there 👋
+# Привет! 👋
 
-<!--
-**dmitryi365/dmitryi365** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Меня зовут Димочка, я пастер я это не скрываю мне похуй, опыт в этой хуйне немного иммеется, шарю немного ток в c++ и js
 
-Here are some ideas to get you started:
+## 🛠️ Мои навыки
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Нихуево пастить
+- Типо шарю за код
+- Чесать жопу и не рвать трусы
+- Чити маинкраф ыэээыээ
+
+## 📈 Моя статистика на GitHub
+
+![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=dmitryi365&show_icons=true&theme=radical)
+
+## 📫 Как со мной связаться
+
+- Discord: @dmitryi365
+
+## 🔗 Полезные ссылки
+
+- [guns.lol](https://guns.lol/dmitryi365)
+- [ProjectSEX Discord](https://discord.gg/invite/GBwrUJBCkn)
+
+Моя страница, мой аккаунт - это мой дом, поэтому, будь добр, заходи в него с благими намерениями либо иди нахуй
