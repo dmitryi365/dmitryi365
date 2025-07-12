@@ -17,6 +17,8 @@
 
 - Discord: @dmitryi365
 
+## 🌐 Discord
+
 <img src="https://lanyard.cnrad.dev/api/562682440674574357?bg=280092&theme=dark&showDisplayName=true" />
 
 ## 🔗 Полезные ссылки
